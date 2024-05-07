@@ -1,4 +1,4 @@
-# Implementation-of-SVM-For-Spam-Mail-Detection
+# Ex 09 -Implementation-of-SVM-For-Spam-Mail-Detection
 
 ## AIM:
 To write a program to implement the SVM For Spam Mail Detection.
@@ -20,8 +20,8 @@ To write a program to implement the SVM For Spam Mail Detection.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: N.Navya Sree     
-RegisterNumber: 212223040138    
+Developed by: VARSHITHA A T    
+RegisterNumber: 212221040176   
 */
 ```
 ```
